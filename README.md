@@ -1,2 +1,2 @@
-# SQL-scrip-using-Sakila-DB
+# SQL-script-using-Sakila-DB
 Functions, joins, CTE's
